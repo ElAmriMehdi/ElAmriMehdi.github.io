@@ -6,6 +6,7 @@ url: http://elamrimehdi.github.io/
 
 about_title: About
 projects_title: Home
+timetable__title: Timetable
 
 # User settings
 user_description_appendix: |
@@ -48,7 +49,7 @@ permalink: ':title/'
 baseurl: ''
 projects_url: '/'
 about_url: '/about'
-
+timetable_url:'/timetable
 
 plugins:
   - jekyll-feed
