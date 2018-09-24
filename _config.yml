@@ -1,11 +1,8 @@
 # Site settings
-title: Louis Rassaby
-description: |
-  Louis Rassaby is a Brooklyn-based software engineer and entrepreneur specializing in Scala and back-end development.
-  He's the founder of Wirefreight, a customer service platform for freight. Previously, Louis led the new products engineering team
-  at Phosphorus Genomics.
+title: Mehdi El Amri
+description: | mehdi.elamri@emsi-edu.ma
 
-url: http://rassaby.com
+url: http://elamrimehdi.github.io/
 
 about_title: About
 projects_title: Home
