@@ -54,3 +54,9 @@ plugins:
 
 include: [_pages]
 exclude: ['package.json', 'src' , 'node_modules', 'Gemfile', 'LICENSE', 'gulpfile.js', 'README.md']
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
