@@ -2,7 +2,7 @@
 layout: post
 title: Learning Machine Learning
 date: 2018-04-18 00:00:00 -0000
-tags: [tech-blog, tech, data]
+tags: [IA, tech, data]
 image: machine-learning.jpg
 ---
 Machine learning. Just when you thought there were enough blog posts about the best way to learn, here's another.
