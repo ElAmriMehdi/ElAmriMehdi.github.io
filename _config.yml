@@ -11,8 +11,6 @@ timetable__title: Timetable
 # User settings
 user_description_appendix: |
   
-  J'ai crée ce site pour partager mes passions: Le rôle du système informatique dans l'entreprise, l'intelligence artificielle, le web et autres. 
-  
 
 email: mehdi.elamri@emsi-edu.ma
 linkedin: meelamri
@@ -28,9 +26,7 @@ author: Mehdi El Amri
 author_title: mehdi.elamri@emsi-edu.ma
 author_photo: profile-photo.jpg
 user_description_short: |
-  Je suis élève ingénieur spécialité MIAGE à l'ecole marocaine des sciences de l'ingénieur et à l'université nice sophia antipolis. 
-  
-  Passioné par le web, le cloud, et l'intelligence artificielle. Loin de mon clavier, je suis magicien et j'écoute beaucoup de musique :) 
+  Je suis élève ingénieur spécialité MIAGE à l'ecole marocaine des sciences de l'ingénieur et à l'université nice sophia antipolis. Passioné par le web, le cloud, et l'intelligence artificielle. Loin de mon clavier, je suis magicien et j'écoute beaucoup de musique :) 
 
 
 
