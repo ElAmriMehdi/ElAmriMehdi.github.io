@@ -49,7 +49,7 @@ permalink: ':title/'
 baseurl: ''
 projects_url: '/'
 about_url: '/about'
-timetable_url:'/timetable
+timetable_url:'/timetable'
 
 plugins:
   - jekyll-feed
