@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Machine Learning
-date: 2018-04-18 00:00:00 -0000
+date: 2018-09-24 00:00:00 -0000
 tags: [IA, tech, data]
 image: machine-learning.jpg
 ---
