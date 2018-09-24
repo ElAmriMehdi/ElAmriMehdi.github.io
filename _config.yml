@@ -20,18 +20,18 @@ user_description_appendix: |
   [jekyll]: https://jekyllrb.com
 
 
-email: louis@rassaby.com
-linkedin: lrassaby
-github: lrassaby
+email: mehdi.elamri@emsi-edu.ma
+linkedin: meelamri
+github: ElAmriMehdi
 #angellist: rassaby
 
-relevant_tags: ['projects', 'music', 'tech-blog']
+relevant_tags: ['tutorials', 'events', 'music']
 
 resume_url: https://docs.google.com/document/d/1dJIboSF-ktdaP28DDu-gcuOW1SCCnkSdqtodJGwYkaA/export?format=pdf
 music_resume_url: https://docs.google.com/document/d/17F3g8jx2UHby77P7shJlsKAW2Efasuc1HuQ3Ro3v3zI/export?format=pdf
 
-author: Louis Rassaby
-author_title: Software Engineer
+author: Mehdi El Amri
+author_title: engineer student
 author_photo: profile-photo.jpg
 user_description_short: |
   I'm a Brooklyn-based software engineer and entrepreneur. I'm the founder of [Wirefreight][wirefreight], a
