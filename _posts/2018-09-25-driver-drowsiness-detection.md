@@ -24,10 +24,15 @@ Le sujet semble téchniquement intéressant. En effet, il traite les points suiv
 2. Le machine learning avec Weka
 3. Le tout écrit en JAVA.
 
-Vous trouvez ci-dessous les slides de ma présentation et je promets une serie de tutoriels pour implémenter un tel système. :) 
+Vous trouvez ci-dessous les slides de ma présentation et une vidéo démo. Enfin, je promets une serie de tutoriels pour l'implémentation.
 
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJrOZC4P9Bf8CO429aKyHUAo2__F6_Uivy8bNYNftoAyY6KL4FP-V-AcjUU3xHA4gs4v8rLg9lJySp/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
+Démo: 
+<div class="responsive-wrap">
+ <iframe width="1221" height="735" src="https://www.youtube.com/embed/w9I1gWOroPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
