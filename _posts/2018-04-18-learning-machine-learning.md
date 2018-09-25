@@ -5,6 +5,10 @@ date: 2018-09-24 00:00:00 -0000
 tags: [IA, tech, data]
 image: machine-learning.jpg
 ---
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+
 Machine learning. Just when you thought there were enough blog posts about the best way to learn, here's another.
 
 <div style="text-align: center;">
@@ -24,3 +28,10 @@ specialization on my free time.
 [coursera]: https://www.coursera.org/learn/machine-learning/
 [deep-learning]: https://www.coursera.org/specializations/deep-learning
 [book]: http://a.co/heMZ59m
+
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1F0DQTNPg3YG_By6LMGcgwT3icJ3eMhCiupAZm76CIfE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
