@@ -33,5 +33,17 @@ La figure ci-dessous montre la relation entre les différents containers et comp
 ![fig1]
 
 ## Les Services du Standard J2EE
+Les containers doivent fournir un ensemble de services pour chaque composant. On cite quelques services: 
+* La connexion: Les conatiners doivent supporter la connextion vers d'autres composants et application cliente. 
+* L'accés et persistance de donnée: l'API JDBC permet la connexion et la manipulation des BDs. 
+* La sécurité
+* Les transactions...
+
+La figure ci-dessous illustre les services valable dans J2EE
+![fig2]
+
+
 
 [fig1]: /assets/img/ContainerAndComp.png "Container and Comp"
+[fig2]: /assets/img/JavaEEservices.png "JavaEE services"
+ 
