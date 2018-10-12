@@ -19,7 +19,19 @@ pour les composants. Par exemple, le Java standard (J2SE) est valable dans chaqu
 On peut distinguer un container pour chaque type de composant J2EE: 
 * Web Container. 
 * EJB Container.
-* Applet COntainer. 
+* Applet Container. 
 * Application Client Container.
 
+Il existe deux types de composants qui peuvent s'executer dans un serveur J2EE: 
+* Composants Web: C'est un composant qui intéragit avec un client web. Les servlets et les JSP font partie de cette famille de composant.
+* Composants EJB: Il existe trois types de JavaBean qu'on verra en plus de detail dans les prochains articles: 
+  * Session beans.
+  * Entity beans.
+  * Message-driven Beans.
 
+La figure ci-dessous montre la relation entre les différents containers et composants dans un environnement J2EE. 
+![fig1]
+
+## Les Services du Standard J2EE
+
+[fig1]: /assets/img/ContainerAndComp.png "Container and Comp"
